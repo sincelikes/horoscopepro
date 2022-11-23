@@ -1,0 +1,17 @@
+{
+  "name": "เว็บออนไลน์ อยากเล่นบอล มาทางนี้ ",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "เว็บคาสิโนออนไลน์ เว็บคุณภาพสูงจากต่างประเทศที่เป็นที่นิยม ผ่านเว็บตรงไม่ผ่านเอนต์อย่าง",
+  "keywords": [
+    "แทงบอล",
+    "betufa77",
+    "บอลออนไลน์",
+    "บอลโลก"
+  ],
+  "repository": "https://github.com/sincelikes/horoscopepro",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
